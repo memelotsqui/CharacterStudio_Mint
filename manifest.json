@@ -1,0 +1,24 @@
+{
+    "traits": [
+        {
+            "trait": "Brace",
+            "name": "Brace",
+            "collection": [
+                {
+                    "id": "Giant_Skull_Brace",
+                    "name": "Giant Skull Brace",
+                    "directory": "BRACE/Giant_Skull_Brace.vrm",
+                    "thumbnail": "BRACE/Giant_Skull_Brace.png",
+                    "price": 1
+                },
+                {
+                    "id": "Triangle_Brace",
+                    "name": "Triangle Brace",
+                    "directory": "BRACE/Triangle_Brace.vrm",
+                    "thumbnail": "BRACE/Triangle_Brace.png",
+                    "price": 1
+                }
+            ]
+        }
+    ]
+}
